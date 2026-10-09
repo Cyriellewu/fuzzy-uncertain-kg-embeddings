@@ -1,7 +1,7 @@
 # FKGE-OSC: Fuzzy-Enhanced Uncertain Knowledge Graph Embeddings via Oscillatory Layer Integration
 
 You Wu (first author), Junwei Su, Sirui Zhang, Raymond Shu Tak Lee
-Data Science Program, BNU-HKBU United International College
+Data Science Program, BNU-HKBU United International College · Manuscript (not yet published)
 
 ## Overview
 
